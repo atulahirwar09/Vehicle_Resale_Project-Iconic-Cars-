@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(../images/bgimg3.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Georgia, 'Times New Roman', Times;
+}
+#back {
+    background-color: rgb(234, 228, 228);
+}

@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#search_bar {
+    width: 25rem;
+}
+
+.acc {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.bg-banner {
+    background-image:url('../images/car2.jpg');
+    background-size: cover;
+    
+}
+
+#jumbo {
+    
+}
